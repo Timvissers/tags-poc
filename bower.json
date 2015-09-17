@@ -1,0 +1,13 @@
+{
+  "name": "angular-tags-poc",
+  "description": "A poc to test the angular-tags library",
+  "version": "0.0.1",
+  "homepage": "https://github.com/timv2/tags-poc",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular": "~1.4.0",
+    "angular-route": "~1.4.0",
+    "angular-loader": "~1.4.0"
+  }
+}

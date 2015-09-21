@@ -9,6 +9,7 @@
     "angular": "~1.4.0",
     "angular-route": "~1.4.0",
     "angular-loader": "~1.4.0",
-    "angular-bootstrap": "0.11.2"
+    "angular-bootstrap": "0.11.2",
+    "angular-tagger": "0.1.12"
   }
 }

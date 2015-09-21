@@ -5,8 +5,6 @@ angular.module('myApp', [
   'ngRoute',
   'myApp.angular-tags',
   'myApp.angular-tagger',
-  'myApp.ng-tags-input'
-]).
-config(['$routeProvider', function($routeProvider) {
-  //$routeProvider.otherwise({redirectTo: '/angular-tags'});
-}]);
+  'myApp.ng-tags-input',
+  'myApp.js-tag'
+]);

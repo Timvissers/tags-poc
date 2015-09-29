@@ -3,3 +3,7 @@ li {
     width: 20%;
     color: blue;
 }
+
+body {
+    margin-left: 100px;
+}
